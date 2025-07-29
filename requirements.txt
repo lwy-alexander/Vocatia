@@ -1,0 +1,10 @@
+pandas
+numpy==1.26.4
+seaborn
+matplotlib
+fasttext-wheel
+scikit-learn
+jieba
+janome
+pythainlp
+
