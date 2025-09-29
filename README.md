@@ -14,7 +14,7 @@ The project made by:
 - Olivia The
 
 Hugging Face deployment:
-https://huggingface.co/spaces/lynelam/Vocatia
+https://huggingface.co/spaces/lynelam/Vocatia_AI
 
 Resources of the project:
 https://drive.google.com/drive/folders/1NxYRlF0VAAQJjFGNQGBG3zAlkDW-EaGp?usp=drive_link
