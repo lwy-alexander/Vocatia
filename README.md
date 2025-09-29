@@ -7,7 +7,7 @@ What are in this website:
 
 ---
 
-How to run it
+How to run it:
 1. Download all resources, including data.zip and model.zip in the Google Drive.
 2. Download all the requirements.txt libraries.
 3. Make a project folder with this structure:
