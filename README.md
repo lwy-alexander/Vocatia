@@ -7,20 +7,6 @@ What are in this website:
 
 ---
 
-The project made by:
-- Helen Febriyanto
-- Leonardo Alexander Wijaya
-- Lynel Angelica Madelyn
-- Olivia The
-
-Hugging Face deployment:
-https://huggingface.co/spaces/lynelam/Vocatia_AI
-
-Resources of the project:
-https://drive.google.com/drive/folders/1NxYRlF0VAAQJjFGNQGBG3zAlkDW-EaGp?usp=drive_link
-
----
-
 How to run it
 1. Download all resources, including data.zip and model.zip in the Google Drive.
 2. Download all the requirements.txt libraries.
@@ -38,3 +24,17 @@ How to run it
 4. [Opsional] Run the script.ipynb (if you want to make new model).
 5. [Opsional] Get Google Translate API key and put it on the app.py
 6. Run app.py
+
+---
+
+The project made by:
+- Helen Febriyanto
+- Leonardo Alexander Wijaya
+- Lynel Angelica Madelyn
+- Olivia The
+
+Hugging Face deployment:
+https://huggingface.co/spaces/lynelam/Vocatia_AI
+
+Resources of the project:
+https://drive.google.com/drive/folders/1NxYRlF0VAAQJjFGNQGBG3zAlkDW-EaGp?usp=drive_link
