@@ -21,9 +21,9 @@ How to run it:
     |-lang_detect.ftz
   |- app.py
   |- script.ipynb
-4. [Opsional] Run the script.ipynb (if you want to make new model).
-5. [Opsional] Get Google Translate API key and put it on the app.py
-6. Run app.py
+5. [Opsional] Run the script.ipynb (if you want to make new model).
+6. [Opsional] Get Google Translate API key and put it on the app.py
+7. Run app.py
 
 ---
 
