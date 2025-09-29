@@ -23,7 +23,7 @@ Vocatia/ <br>
 └── script.ipynb
 5. [Opsional] Run the script.ipynb (if you want to make new model).
 6. [Opsional] Get Google Translate API key and put it on the app.py
-7. Run app.py
+7. Run app.py.
 
 ---
 
