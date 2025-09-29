@@ -11,15 +11,15 @@ How to run it:
 1. Download all resources, including data.zip and model.zip in the Google Drive.
 2. Download all the requirements.txt libraries.
 3. Make a project folder with this structure: <br>
-Vocatia/
-├── data/
-│ └── raw/
-│ ├── google_translate_langs.csv
-│ ├── langs.txt
-│ └── sentences.txt
-├── model/
-│ └── lang_detect.ftz
-├── app.py
+Vocatia/ <br>
+├── data/ <br>
+│ └── raw/ <br>
+│ ├── google_translate_langs.csv <br>
+│ ├── langs.txt <br>
+│ └── sentences.txt <br>
+├── model/ <br>
+│ └── lang_detect.ftz <br>
+├── app.py <br>
 └── script.ipynb
 5. [Opsional] Run the script.ipynb (if you want to make new model).
 6. [Opsional] Get Google Translate API key and put it on the app.py
